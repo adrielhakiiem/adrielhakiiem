@@ -1,6 +1,18 @@
-In a world where everyone *looks* busy, here you are checking GitHub contributions.  
-If that works, don't fix it right? 
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 20px;">
+      <p>
+In a world where everyone <i>looks</i> busy, here you are checking GitHub contributions.  
+If it works, don’t fix it right?
 
-I'm a DS student with a growing obsession (other than coffees) for building things with data. Trying to get more into fintech, aviation, and entertainment analytics. 
+I'm a data science student with a growing obsession (besides coffee) for building things with data.  
+Exploring fintech, aviation, and entertainment analytics.
 
-Always open for datathons/hackathons, collaborative projects, or tech events that provide free food (to hiring managers, I'm just joking) so please don't hesitate to reach out!!
+Always open to datathons, hackathons, collaborative projects, or tech events (especially the ones with free food — professionally speaking, of course).
+      </p>
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="assets/carlton.gif" width="180"/>
+    </td>
+  </tr>
+</table>
