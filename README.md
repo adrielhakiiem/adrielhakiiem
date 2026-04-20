@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Ad 👋
 
-<!--
-**adrielhakiiem/adrielhakiiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In a world where everyone *looks* busy, here you are checking GitHub contributions.  
+Whatever rocks your boat I guess...
 
-Here are some ideas to get you started:
+I'm [Ad](https://www.linkedin.com/in/adrielhakiem/), a data science student-athlete with a growing obsession for building things with data. Currently exploring the intersection of **data science, data engineering, and real-world systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Fintech & financial systems  
+- Aviation & operational data  
+- Sports, fashion, and entertainment analytics  
+
+## 🧠 What I do (when deadlines aren't hunting me)
+- Solve data/tech problems on platforms like LeetCode, StrataScratch, and HackerRank  
+- Experiment with SQL, pipelines, and analytics projects  
+- Collect certifications (as long as I don't have to pay for it)
+
+## ⚡ Outside of tech
+- Boxing 🥊  
+- Futsal ⚽  
+- Chess ♟️  
+- Reading memoirs & watching films (slowly becoming that film guy)
+
+## 🤝 Let’s build something
+Always open to:
+- Hackathons / Datathons  
+- Collaborative projects  
+- Anything that involves solving real problems with data  
+
+Reach out if you want to build, compete, or just exchange ideas.
