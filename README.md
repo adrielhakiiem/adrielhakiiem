@@ -1,5 +1,4 @@
-A DS student trying to get into fintech, aviation, and entertainment analytics.
+Hey there, I'm Ad! If you'd like to know me better, here's a quote from one of my favourite books that sums up my life in one line:
 
-Always open to datathons, hackathons, collaborative projects, or tech events (especially the ones with free food and coffee — professionally speaking, of course).
-
-Currently exploring data engineering.
+“I sometimes suspect that inside every data scientist is a kid trying to figure out why his childhood dreams didn't come true.”
+— Everybody Lies by Seth Stephens-Davidowitz
